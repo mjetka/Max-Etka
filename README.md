@@ -2,12 +2,7 @@
 
 
 
-# Header 1
-## Header 2
-### Header 3
-
-
-[Twitter](https://twitter.com/mjetka15?lang=en) 
+<h1>[Twitter](https://twitter.com/mjetka15?lang=en) 
 
 
 ### Jekyll Themes
