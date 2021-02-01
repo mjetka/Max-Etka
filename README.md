@@ -1,8 +1,8 @@
 ## Welcome to Max's GitHub Page
 
 
-
-<h1>[Twitter](https://twitter.com/mjetka15?lang=en) </h1>
+<ol>
+  <h1><a href="https://twitter.com/mjetka15?lang=en">"Twitter"</a></h1>
 
 
 <h3>### Jekyll Themes</h3>
